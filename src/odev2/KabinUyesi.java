@@ -1,0 +1,39 @@
+
+package odev2;
+/*kabin üyesi  için uml diyagramından gerekli değişkenleri aldım.
+aynı zamanda bu clası miras aldım kisi clasımdan.
+ve bu değişkenler için getter setter methodlarımızı tanımladım.
+  */ 
+public class KabinUyesi extends Kisi {
+    private float toplamSaat;
+    private int toplamUcus;
+    private boolean pilot;
+
+
+    public float getToplamSaat() {
+        return toplamSaat;
+    }
+
+    public void setToplamSaat(float toplamSaat) {
+        this.toplamSaat = toplamSaat;
+    }
+
+    public int getToplamUcus() {
+        return toplamUcus;
+    }
+
+    public void setToplamUcus(int toplamUcus) {
+        this.toplamUcus = toplamUcus;
+    }
+
+    public boolean isPilot() {
+        return pilot;
+    }
+
+    public void setPilot(boolean pilot) {
+        this.pilot = pilot;
+    }
+
+   
+    
+}

@@ -1,0 +1,6 @@
+havalimaniAdi; ülke; şehir
+Sabiha Gökcen;Turkiye;Istanbul
+Atatürk;Turkiye;Istanbul
+Esenboga;Turkiye;Ankara
+Esenboga;Turkiye;Ankara
+Erzurum Havalimani;Turkiye;Erzurum

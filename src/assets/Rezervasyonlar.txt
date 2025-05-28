@@ -1,0 +1,1 @@
+YolcuNo; kisiTC; Yolcuisim-soyisim; rezervasyonNo, ucusSaati, kalkisHavalimani; varisHavalimani;ucusNo,koltukNo,sinif,ucret;durum
